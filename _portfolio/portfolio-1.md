@@ -1,7 +1,7 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Deliverable 1 Assigned Tasks<br/>David: Website<br/>Michelle: User Stories/Business Rules/Prototype Redesign and Photo copy<br/>Jim: User Stories/Business Rules/Summary<br/>Caleb: Prototype Annoation"
 collection: portfolio
+date: 2018-04-22
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
