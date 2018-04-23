@@ -1,7 +1,7 @@
 ---
 title: "Deliverable 1"
 permalink: /Deliverables&Checkins/2018-04-22-deliverable1
-excerpt: 'This is Deliverable 1 Requirments and Specification Document.'
+excerpt: 'This is Deliverable 1 Requirments and Specification Document.<br/><img src='/images/deliverable1pic.png'>'
 date: 2018-04-22
 ---
 
