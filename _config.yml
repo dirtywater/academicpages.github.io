@@ -78,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dirty Water"
+  name             : "Team Dirty Water"
   avatar           : "profile.png"
-  bio              : "This site for the purpose of maintaining teams resources, documents and all relevant information about team Dirty Water."
+  bio              :
   location         :
-  employer         :
+  employer         : UWT TCSS360 
   googlescholar    :
   email            : "dirtywater365@gmail.com"
   uri              :
