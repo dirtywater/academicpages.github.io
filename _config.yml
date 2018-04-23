@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dirty Water"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -83,8 +83,8 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    :
+  email            : "dirtywater365@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,16 +92,16 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "dirtywater"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "replacethistwitterhandle"
