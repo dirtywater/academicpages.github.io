@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dirty Water"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "We Are Dirty Water!\nMichelle Brown\nJim Phan\nDavid Guerrero\nCaleb Wheeler"
-description              : &description "personal description"
+name                     : &name "Michelle Brown, Jim Phan, David Guerrero, Caleb Wheeler"
+description              : &description "Team Dirty Water's Website"
 url                      : https://dirtywater.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dirtywater/dirtywater.github.io"
@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dirty Water"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "This site is serves Dirty Water's status website for the purpose of maintaining teams resoueces, documents and all relevant information"
+  location         :
   employer         :
   canvas           : "https://canvas.uw.edu/"
   googlescholar    :
