@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Deliverables&Checkins"
 permalink: /publications/
 author_profile: true
 ---
