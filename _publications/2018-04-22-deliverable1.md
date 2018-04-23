@@ -1,9 +1,8 @@
 ---
 title: "Deliverable 1"
-collection: Deliverables&Checkins
-permalink: /Deliverables&Checkins/2009-10-01-deliverable1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /Deliverables&Checkins/2018-04-22-deliverable1
+excerpt: 'This is Deliverable 1 Requirments and Specification Document.'
 date: 2018-04-22
-venue: 'Journal 1'
-paperurl: 'https://docs.google.com/document/d/1lyNqyi4yEmJwHd4bxVc1iSOQQZmMLmyrwKhkOHLcXbY'
 ---
+
+[Download paper here](https://docs.google.com/document/d/1lyNqyi4yEmJwHd4bxVc1iSOQQZmMLmyrwKhkOHLcXbY)
