@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Deliverables&Checkins"
-permalink: /publications/
+title: "Deliverables & Checkins"
+permalink: /Deliverables&Checkins/
 author_profile: true
 ---
 
