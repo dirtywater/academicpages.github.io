@@ -80,14 +80,9 @@ analytics:
 author:
   name             : "Dirty Water"
   avatar           : "profile.png"
-  bio              : "This site for the purpose of maintaining teams resources, documents and all relevant information about team Dirty Water."
+  bio              : "This site for the purpose of maintaining teams resources, documents and all relevant information about team Dirty Water." + "Team Members" + "David Guerrero"
   location         :
-  firstperson      : "David Guerrero"
-  secondperson     : "Michelle"
-  thirdperson      : "Jim"
-  fourthperson     : "Kaleb"
   employer         :
-  canvas           : "https://canvas.uw.edu/"
   googlescholar    :
   email            : "dirtywater365@gmail.com"
   uri              :
@@ -109,7 +104,6 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "testaccount-this-is-fake"
   vine             :
   weibo            :
   xing             :
