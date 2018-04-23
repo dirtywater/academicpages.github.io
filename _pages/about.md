@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-This site is for the purpose of maintaining teams resources, documents and all relevant information about team Dirty Water. In the Deliverables & Checkin page you can see you documents and comments related to our deliverables and checkins. You can also ee what we are all up to by navigating to the Assigned Tasks page. There you will find who has what tasks assigned and progress on them.
+This site is for the purpose of maintaining teams resources, documents and all relevant information about team Dirty Water. In the Deliverables & Checkin page you can see documents and comments related to our deliverables and checkins. You can also see what we are all up to by navigating to the Assigned Tasks page were you will find who has what tasks assigned and progress on them.
 
