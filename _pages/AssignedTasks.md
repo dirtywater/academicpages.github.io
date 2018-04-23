@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "AssignedTasks"
+title: "Assigned Tasks"
 permalink: /AssignedTasks/
 author_profile: true
 ---
