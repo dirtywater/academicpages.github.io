@@ -2,7 +2,7 @@
 title: "Deliverable 1"
 permalink: /Deliverables&Checkins/2018-04-22-deliverable1
 excerpt: "This is Deliverable 1 Requirments and Specification Document."
-paperurl: 'https://docs.google.com/document/d/1lyNqyi4yEmJwHd4bxVc1iSOQQZmMLmyrwKhkOHLcXbY'
+paperurl: 'http://dirtywater.github.io/files/RequirmentsandSpecifications.pdf'
 date: 2018-04-22
 ---
 
